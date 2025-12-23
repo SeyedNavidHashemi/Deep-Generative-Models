@@ -67,7 +67,13 @@ The model optimizes a composite objective function:
 ## Project Structure
 
 ```
-MAF-and-CycleGAN-Implementations/ │ ├── MAF.ipynb # Implementation of Masked Autoregressive Flow ├── CycleGAN.ipynb # Implementation of CycleGAN ├── DGM_HW2.pdf # Assignment requirements and theoretical questions ├── Report.pdf # Detailed project report (Persian) └── README.md # This file
+MAF-and-CycleGAN-Implementations/
+│
+├── MAF.ipynb # Implementation of Masked Autoregressive Flow
+├── CycleGAN.ipynb # Implementation of CycleGAN
+├── DGM_HW2.pdf # Assignment requirements and theoretical questions
+├── Report.pdf # Detailed project report (Persian)
+└── README.md # This file
 ```
 
 ---
